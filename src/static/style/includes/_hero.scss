@@ -1,0 +1,25 @@
+.large-hero {
+   height: 540px;
+   padding-top: 54px;
+}
+
+.award {
+   background-image: url(../../images/ipoheader.jpg);
+}
+
+.awardImg {
+   transition: transform 0.2s; /* Animation */
+}
+
+.awardImg:hover {
+   transform: scale(1.1);
+}
+
+.awardsImg2 {
+   opacity: 0.5;
+   transition: 0.2s;
+}
+
+.awardsImg2:hover {
+   opacity: 1;
+}
